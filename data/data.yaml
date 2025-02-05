@@ -1,0 +1,6 @@
+train: C:/MarineSpeciesProject/data/train/images
+val: C:/MarineSpeciesProject/data/valid/images
+test: C:/MarineSpeciesProject/data/test/images
+
+nc: 13
+names: ['AngelFish', 'BlueTang', 'ButterflyFish', 'ClownFish', 'GoldFish', 'Gourami', 'MorishIdol', 'PlatyFish', 'RibbonedSweetlips', 'ThreeStripedDamselfish', 'YellowCichlid', 'YellowTang', 'ZebraFish']

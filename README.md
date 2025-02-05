@@ -3,7 +3,7 @@
 This project uses YOLOv8 (You Only Look Once) for detecting and counting marine species in images and videos.
 
 ## Dataset
-The dataset consists of images of various marine species, annotated with bounding boxes collected from Kaggle (sea-animals-image-datasset). You can use datasets like this or create your own.
+The dataset consists of images of various marine species, annotated with bounding boxes collected from Kaggle (sea-animals-image-dataset). You can use datasets like this or create your own.
 
 ## Technologies Used
 - **YOLOv8**: For real-time object detection.
